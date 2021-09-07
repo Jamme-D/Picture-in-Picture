@@ -1,5 +1,6 @@
 # Picture-in-Picture
-Web app developed to play a video in picture-in-picture mode, in order to multi-task while using a web browser.
+Web app developed to play a video in picture-in-picture mode, in order to multi-task while using a web browser. *
+  *Note: Not designed for mobile use.
 
 It works by: 
   1) Opening and playing video in separate window.
